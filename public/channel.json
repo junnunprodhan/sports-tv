@@ -1,0 +1,362 @@
+[
+  {
+    "id": "1",
+    "name": "ICC Champions Trophy",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://fdev.short.gy/ChampionsTrophy/ENGLISHxRANAPK.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "ICC Champions Trophy Bangla",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://fdev.short.gy/Championstrophy/BANGLAxRANAPK.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "ICC Champions Trophy T Sports",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://cdn.hoichoi24.com/LIVE/video.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "Star Sports 1 HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg",
+    "link": "http://41.205.93.154/STARSPORTS1/index.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Sony Sports Ten 1 HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Sony%20Sports%20Ten%201.png",
+    "link": "https://bdixtv24.site/toffee/live.php?id=43dcec1011e7&e=.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Sony Sports Ten 3 HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%203.png",
+    "link": "https://bdixtv24.site/toffee/live.php?id=edc6a07e4754&e=.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Sony Sports Ten 5",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/56e54462053b1b278b80b532c89c01f17e360fd5/Sony%20Sports%20Ten%205.png",
+    "link": "https://bdixtv24.site/toffee/live.php?id=fd6de8bd1666&e=.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Eurosports",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Eurosports.png",
+    "link": "https://raw.githubusercontent.com/subirkumarpaul/My-iptv/main/Eurosport.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "A Sports",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/A%20Sports.png",
+    "link": "http://125.209.88.166:45793/BRN/ArySports.stream/playlist.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Geo Super",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/GEO%20Super.png",
+    "link": "http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "T Sports",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+    "link": "https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "SATV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "Deepto TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",
+    "link": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Bangla TV Europe",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",
+    "link": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Nexus TV HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "Channel S UK HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Kids Creation",
+    "logo": "https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",
+    "link": "https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Somoy TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "Jago News 24",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8"
+  },
+  {
+    "id": "20",
+    "name": "ATN Music",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
+  },
+  {
+    "id": "1",
+    "name": "ICC Champions Trophy",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://fdev.short.gy/ChampionsTrophy/ENGLISHxRANAPK.m3u8"
+  },
+  {
+    "id": "2",
+    "name": "ICC Champions Trophy Bangla",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://fdev.short.gy/Championstrophy/BANGLAxRANAPK.m3u8"
+  },
+  {
+    "id": "3",
+    "name": "T Sports",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+    "link": "https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8"
+  },
+  {
+    "id": "4",
+    "name": "SATV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",
+    "link": "https://app.ncare.live/satvoff5666.stream/playlist.m3u8"
+  },
+  {
+    "id": "5",
+    "name": "Deepto TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",
+    "link": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8"
+  },
+  {
+    "id": "6",
+    "name": "Bangla TV Europe",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",
+    "link": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8"
+  },
+  {
+    "id": "7",
+    "name": "Nexus TV HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png",
+    "link": "https://app.ncare.live/nexustv.stream/playlist.m3u8"
+  },
+  {
+    "id": "8",
+    "name": "Channel S UK HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg",
+    "link": "https://app.ncare.live/chsukoff.stream/playlist.m3u8"
+  },
+  {
+    "id": "9",
+    "name": "Kids Creation",
+    "logo": "https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",
+    "link": "https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": "10",
+    "name": "Somoy TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg",
+    "link": "https://app.ncare.live/somoyt000011226615544544.stream/playlist.m3u8"
+  },
+  {
+    "id": "11",
+    "name": "Jago News 24",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg",
+    "link": "https://app.ncare.live/jagonews24.stream/playlist.m3u8"
+  },
+  {
+    "id": "12",
+    "name": "ATN Music",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",
+    "link": "https://app.ncare.live/atnmusic.stream/playlist.m3u8"
+  },
+  {
+    "id": "13",
+    "name": "RTV Music",
+    "logo": "https://imgpile.com/images/58YDwk.jpg",
+    "link": "https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8"
+  },
+  {
+    "id": "14",
+    "name": "Peace TV English",
+    "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
+    "link": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+  },
+  {
+    "id": "15",
+    "name": "Peace TV Urdu",
+    "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
+    "link": "https://dzkyvlfyge.erbvr.com/PeaceTvUrdu/index.m3u8"
+  },
+  {
+    "id": "16",
+    "name": "ATN Islamic",
+    "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
+    "link": "https://app.ncare.live/atnislamictv.stream/playlist.m3u8"
+  },
+  {
+    "id": "17",
+    "name": "Madani TV",
+    "logo": "https://i.ibb.co/7jrjkW1/20240813-112630.png",
+    "link": "https://streaming.madanichannel.tv/static/streaming-playlists/hls/master.m3u8"
+  },
+  {
+    "id": "18",
+    "name": "Makkah TV",
+    "logo": "https://i.ibb.co/TtHtGkW/20240803-172601.png",
+    "link": "https://app.ncare.live/makkahtv.stream/playlist.m3u8"
+  },
+  {
+    "id": "19",
+    "name": "AL Sunnah TV",
+    "logo": "https://i.ibb.co/rtkWYHV/20240827-092043.png",
+    "link": "http://m.live.net.sa:1935/live/sunnah/chunklist.m3u8?v=1"
+  },
+  {
+    "id": "20",
+    "name": "God TV",
+    "logo": "",
+    "link": "https://hlsb-us.god.tv/GODTV/USA-480.m3u8"
+  },
+  {
+    "id": 1,
+    "name": "ICC Champions Trophy",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://fdev.short.gy/ChampionsTrophy/ENGLISHxRANAPK.m3u8"
+  },
+  {
+    "id": 2,
+    "name": "ICC Champions Trophy Bangla",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://fdev.short.gy/Championstrophy/BANGLAxRANAPK.m3u8"
+  },
+  {
+    "id": 3,
+    "name": "ICC Champions Trophy T Sports",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://cdn.hoichoi24.com/LIVE/video.m3u8"
+  },
+  {
+    "id": 4,
+    "name": "ICC Champions Trophy Star Sports 1 HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://hocdn.news/live/star1in.m3u8"
+  },
+  {
+    "id": 5,
+    "name": "ICC Champions Trophy Star Sports 1 Hindi",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://hocdn.news/live/starhindi.m3u8"
+  },
+  {
+    "id": 6,
+    "name": "ICC Champions Trophy Sky Sports Cricket",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://hocdn.news/live/skyscric.m3u8"
+  },
+  {
+    "id": 7,
+    "name": "ICC Champions Trophy PTV Sports",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://hocdn.news/live/ptvpk.m3u8"
+  },
+  {
+    "id": 8,
+    "name": "Willow Cricket HD",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnB8TDo84j8DhnC7pBQgBFAsvD3C7b0MWnpu-h3-gbVAr_h1YDNE-MF6g&s=10",
+    "link": "https://hocdn.news/live/willowusa.m3u8"
+  },
+  {
+    "id": 9,
+    "name": "T Sports",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
+    "link": "https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8"
+  },
+  {
+    "id": 10,
+    "name": "SATV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/playlist.m3u8"
+  },
+  {
+    "id": 11,
+    "name": "Deepto TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",
+    "link": "https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8"
+  },
+  {
+    "id": 12,
+    "name": "Bangla TV Europe",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Bangla%20TV.png",
+    "link": "https://byphdgllyk.gpcdn.net/hls/banglatveurope/index.m3u8"
+  },
+  {
+    "id": 13,
+    "name": "Nexus TV HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nexustv.stream/playlist.m3u8"
+  },
+  {
+    "id": 14,
+    "name": "Channel S UK HD",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20S.jpeg",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/chsukoff.stream/playlist.m3u8"
+  },
+  {
+    "id": 15,
+    "name": "Kids Creation",
+    "logo": "https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",
+    "link": "https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8"
+  },
+  {
+    "id": 16,
+    "name": "Somoy TV",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Somoy%20TV.jpeg",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/somoyt000011226615544544.stream/playlist.m3u8"
+  },
+  {
+    "id": 17,
+    "name": "Jago News 24",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Jago%20News%2024.jpeg",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8"
+  },
+  {
+    "id": 18,
+    "name": "ATN Music",
+    "logo": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/ATN%20Music.png",
+    "link": "https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8"
+  },
+  {
+    "id": 19,
+    "name": "RTV Music",
+    "logo": "https://imgpile.com/images/58YDwk.jpg",
+    "link": "https://raw.githubusercontent.com/gift4bd/ytm/main/RTVMusic.m3u8"
+  },
+  {
+    "id": 20,
+    "name": "Peace TV English",
+    "logo": "https://i.ibb.co/598TYnC/20240827-092020.png",
+    "link": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
+  }
+]
