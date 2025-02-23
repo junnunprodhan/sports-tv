@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import ChannelList from "./components/ChannelList";
 import ChannelPage from "./pages/ChannelPage";
+import About from "./pages/About";
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
           <Route path="/" element={<Home />} />
           <Route path="/channels" element={<ChannelList />} />
           <Route path="/channel/:id" element={<ChannelPage />} />
+          <Route path="/about" element={<About />} />
         </Routes>
         <Footer />
       </div>

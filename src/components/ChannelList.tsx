@@ -156,6 +156,18 @@ export default function ChannelList() {
       logo: "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/T%20Sports.png",
       link: "https://iptvcable.netlify.app/Altogether-007/Tsports.m3u8",
     },
+    {
+      id: "25",
+      name: "Prime Channel HD",
+      logo: "https://primechannel.com/logo/prime_hd.png",
+      link: "https://primechannel.com/live/prime_hd.m3u8",
+    },
+    {
+      id: "26",
+      name: "Prime Channel Sports",
+      logo: "https://primechannel.com/logo/prime_sports.png",
+      link: "https://primechannel.com/live/prime_sports.m3u8",
+    },
   ]);
 
   const navigate = useNavigate();
